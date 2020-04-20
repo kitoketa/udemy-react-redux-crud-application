@@ -19,7 +19,6 @@ class EventsIndex extends Component {
             {event.title}
           </Link>
         </td>
-        <td>{event.title}</td>
         <td>{event.body}</td>
       </tr>
     ))
